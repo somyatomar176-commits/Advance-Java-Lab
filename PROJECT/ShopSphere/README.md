@@ -6,8 +6,8 @@
 ---
 
 ### Student Info
-* **Name:** Pratham Kumar Singh
-* **Roll No:** 24EGJAD036
+* **Name:** Vashnavi Singh
+* **Roll No:** 24EGJCS639
 * **College:** Global Institute of Technology (GIT), Jaipur
 * **University:** Rajasthan Technical University (RTU), Kota
 * **Semester:** 5th Semester (B.Tech CSE / AI & DS)
